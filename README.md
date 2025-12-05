@@ -1,2 +1,24 @@
 # jarvis-ui
-打造一个钢铁侠风格的科幻 AI 交互界面，支持语音、文本和手势交互，页面具有科幻感 UI、动画、音效等
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
